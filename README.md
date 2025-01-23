@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taqi, an <a href="https://linkedin.com/in/Taqq">IT Professional</a>☺</h1>
+<h1>Hi, I'm Taqi, an <a href="https://linkedin.com/in/Taqq">IT Professional☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
